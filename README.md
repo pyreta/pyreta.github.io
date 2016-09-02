@@ -2,4 +2,4 @@
 
 [Check out the live page][live]
 
-[live]: dev.louisabramson.com
+[live]: http://dev.louisabramson.com/
